@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Base de datos
+db.sqlite3
+
+# Archivos sensibles
+.env
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.pot
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+thumbs.db
